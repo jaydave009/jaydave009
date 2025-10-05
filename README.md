@@ -1,52 +1,59 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi, I'm Jay Dave</h1>
+<h3 align="center">Data Analyst | Power BI Developer | SQL Enthusiast</h3>
+<h4 align="center">Transforming raw data into clear, actionable insights that drive smarter business decisions.</h4>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaydave009&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me
+- Currently working on **FlatMitra Dashboard Project**
+- Learning **Advanced DAX functions** and **AI Automation with Be10x**
+- Open to collaborate on **Business Intelligence, Analytics, and Operations projects**
+- Experienced in **Power BI, SQL, Excel, and Python** for data modeling and reporting
+- All my projects are available on GitHub: [github.com/jaydave009](https://github.com/jaydave009)
+- Ask me about **Data Cleaning, Power BI Reports, KPI Design, and Business Performance Analysis**
+- Connect with me on LinkedIn: [linkedin.com/in/jay-dave-361534106](https://www.linkedin.com/in/jay-dave-361534106)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+---
 
-###
+### ⚙️ Tech Stack
+**Data Analytics & Visualization:** Power BI, Excel, Tableau  
+**Database Management:** SQL Server, MySQL, PostgreSQL, Oracle  
+**Programming:** Python (Pandas, NumPy, Matplotlib)  
+**ETL & Automation:** Power Query, Power Automate, n8n  
+**Cloud & Tools:** Google Cloud, AWS (Basics), Git, Excel VBA
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+### 🧭 Professional Focus
+- Business Data Modeling and Performance Dashboards  
+- Building Interactive Reports for Decision-Making  
+- Automating Repetitive Reporting Tasks  
+- Turning Data into Strategic Business Insights
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 📈 Featured Projects
+- **FlatMitra Dashboard** – Real-time Property Analytics Dashboard  
+- **Road Accident Analysis** – Data-driven accident trend and hotspot visualization  
+- **Sales Performance Tracker** – BI dashboard to measure regional and product sales KPIs  
+- **Customer Retention Analysis** – Predictive insights for improving customer engagement  
+
+---
+
+### 📬 Let's Connect
+<a href="https://linkedin.com/in/jay-dave-361534106" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<br>
+
+---
+
+### 🎯 Quick Glimpse
+> Focused on simplifying data complexity and building dashboards that tell stories, not just show numbers.
+
+---
+
