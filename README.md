@@ -1,134 +1,106 @@
-<h1 align="center">Hey 👋 I'm Jay Dave</h1>
-
+<!-- Profile Header -->
+<h1 align="center">Hey there, I'm Jay Dave 👋</h1>
 <h3 align="center">Data Analyst | Power BI Developer | SQL & Python Enthusiast</h3>
 
 <p align="center">
-Transforming complex datasets into clear business insights through analytics, visualization, and storytelling.
+Turning data into actionable insights through analytics, visualization, and storytelling.
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="60" alt="powerbi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="60" alt="excel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-</div>
+<!-- Animated Typing Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+and+Python+Explorer;Transforming+Data+into+Decisions" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📈 About Me  
+<!-- Skills Section -->
+<h3 align="center">Tech Stack & Tools</h3>
 
-- 🔹 Data Analyst with expertise in **Power BI, SQL, Excel, and Python (Pandas)**  
-- 🔹 Experienced in building interactive dashboards and reports for business insights  
-- 🔹 Skilled in **data cleaning, modeling, and visualization**  
-- 🔹 Strong understanding of **ETL processes and KPIs tracking**  
-- 🔹 Passionate about converting raw data into **strategic decisions**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,powerbi,excel,github,vscode" height="55" />
+</p>
 
 ---
 
-### 💼 What I'm Working On  
+<!-- About Me -->
+### 🧭 About Me  
+- Experienced **Data Analyst** focused on Power BI, SQL, and Excel-based reporting  
+- Skilled in **data cleaning, modeling, and visualization**  
+- Build **interactive dashboards** to reveal business insights  
+- Explore datasets to find trends and patterns that drive better decisions  
 
-- Power BI Dashboards for Sales, HR, and Road Accident Analysis  
-- Automating data pipelines and integrating SQL with Power BI  
-- Learning advanced DAX & data storytelling techniques  
+---
+
+### 🚀 Currently Working On  
+- **Road Accident Analysis Dashboard** (Power BI)  
+- **Sales & Revenue Performance Tracker**  
+- **HR Attrition Insights Dashboard**  
+
+---
+
+### 💡 Currently Learning  
+- Advanced DAX functions and Power BI Service automation  
+- SQL performance optimization  
+- Python for data analytics and automation  
 
 ---
 
 ### 🤝 Looking to Collaborate On  
-
-- Business intelligence and dashboard projects  
-- Data analytics using SQL or Power BI  
-- Open-source data visualization and reporting tools  
-
----
-
-### 🧠 Currently Learning  
-
-- Python for advanced data analysis  
-- Cloud-based data reporting (Power BI Service, Azure)  
-- Predictive analytics and data modeling  
+- Power BI and SQL-based analytics projects  
+- Data storytelling and visualization initiatives  
 
 ---
 
 ### 💬 Ask Me About  
-
-- Power BI dashboard design  
-- Data modeling with SQL  
-- ETL pipelines and report automation  
-- Business performance analytics  
+- Power BI dashboard design and KPI setup  
+- Data modeling using SQL and Excel  
+- Turning raw data into business insights  
 
 ---
 
-### 📫 How to Reach Me  
+### 📫 Connect With Me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/axardave/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jaydave009" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧾 I Regularly Write About  
-
-- Power BI best practices and case studies  
-- Data storytelling and visualization techniques  
-- SQL performance and automation insights  
-
----
-
-### 💼 My Projects  
+### 🏆 Featured Projects  
 
 | Project | Description |
 |----------|-------------|
-| [Road Accident Analysis Dashboard](https://github.com/jaydave009/Road-Accident-Analysis-Dashboard) | Power BI dashboard analyzing accident data and safety insights |
-| [Sales Performance Dashboard](#) | KPI-driven Power BI report with YoY trends and region filters |
-| [HR Analytics Dashboard](#) | Employee attrition analysis and HR KPIs visualization |
-| [SQL Data Analysis Scripts](#) | SQL queries for data cleaning, aggregation, and reporting |
+| [Road Accident Analysis Dashboard](https://github.com/jaydave009/Road-Accident-Analysis-Dashboard) | Interactive Power BI dashboard analyzing accident data and safety KPIs |
+| [Sales Performance Dashboard](#) | KPI-based business intelligence dashboard with YoY comparisons |
+
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Highlights  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydave009&theme=tokyonight" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydave009&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-</div>
-
----
-
-### 🏆 Achievements & Trophies  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaydave009&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydave009&show_icons=true&theme=transparent&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaydave009&theme=transparent&hide_border=false" height="150" />
+</p>
 
 ---
 
-### 🎮 Fun Fact  
-
-When I’m not analyzing data, I’m exploring dashboards like they’re treasure maps — always looking for the hidden insight.
+### 🎯 Fun Fact  
+I can find patterns in your Excel sheet before you finish your morning coffee.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" alt="GitHub Pacman Graph" />
+</p>
