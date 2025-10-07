@@ -20,11 +20,11 @@
 ---
 
 ### ⚙️ Tech Stack
-**Data Analytics & Visualization:** Power BI, Excel, Tableau  
-**Database Management:** SQL Server, MySQL, PostgreSQL, Oracle  
-**Programming:** Python (Pandas, NumPy, Matplotlib)  
-**ETL & Automation:** Power Query, Power Automate, n8n  
-**Cloud & Tools:** Google Cloud, AWS (Basics), Git, Excel VBA
+- Data Analytics & Visualization:** Power BI, Excel, Tableau
+- Database Management:** SQL Server, MySQL, PostgreSQL, Oracle
+- Programming:** Python (Pandas, NumPy, Matplotlib)
+- ETL & Automation:** Power Query, Power Automate, n8n
+- Cloud & Tools:** Google Cloud, AWS (Basics), Git, Excel VBA
 
 ---
 
