@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- Currently working on **FlatMitra Dashboard Project**
+- Currently working on **FlatMitra AI Project**
 - Learning **Advanced DAX functions** and **AI Automation with Be10x**
 - Open to collaborate on **Business Intelligence, Analytics, and Operations projects**
 - Experienced in **Power BI, SQL, Excel, and Python** for data modeling and reporting
